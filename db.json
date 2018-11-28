@@ -1,0 +1,105 @@
+{
+  "data": {
+    "1": {
+      "longitude": 85.2,
+      "latitude": 27.3,
+      "images": [
+        "image1.jpg",
+        "image2.jpg"
+      ],
+      "web_link": "http://www.kathmandulivinglabs.org/projects/mapping-schools-and-hospitals",
+      "description": "Colleagues who would later go on to establish KLL were mapping and surveying 3,400 school, college and hospital buildings in Kathmandu valley. Unlike typical traditional data collection projects, this project would create an open (public) data platform using the collected data. The colleagues were little aware that this project was also laying a foundation for KLL as an organization.",
+      "title": "Those Days Before KLL",
+      "category": "Pre-KLL days",
+      "day": 5,
+      "year": 2012,
+      "month": 3,
+      "id": "1"
+    },
+    "2": {
+      "longitude": 85.2,
+      "latitude": 27.3,
+      "images": [
+        "image1.jpg",
+        "image2.jpg"
+      ],
+      "web_link": "http://www.kathmandulivinglabs.org/about",
+      "description": "The project was successfully concluded on _____. Bound by the common values of open data, open mapping and ICTs for solving grounded problems, colleagues stay back to establish a formal organization. KLL was offically established on this day.",
+      "title": "When KLL was born...",
+      "category": "Pre-KLL days",
+      "day": 25,
+      "year": 2012,
+      "month": 10,
+      "id": "2"
+    },
+    "3": {
+      "longitude": 85.2,
+      "latitude": 27.3,
+      "images": [
+        "image1.jpg",
+        "image2.jpg"
+      ],
+      "web_link": "http://www.kathmandulivinglabs.org/about",
+      "description": "The seed funding that KLL was 'promised' never came through. KLL's colleagues work for half the salary for the next six months. None of the colleagues left the organization though - everyone stayed behind to see this crisis through.",
+      "title": "But things don't always go according to plan...",
+      "category": "KLL's first stint with Crisis Management",
+      "day": 25,
+      "year": 2013,
+      "month": 12,
+      "id": "3"
+    },
+    "4": {
+      "longitude": 85.2,
+      "latitude": 27.3,
+      "images": [],
+      "web_link": null,
+      "description": "KLL partners with NSET, the region's leading earthquake institution, to survey residential buidlings in Bharatpur Municipality using electronic tablets. It produces a public domain dataset of structural data of 10,000 buildings. NSET uses this data for the vulnerability assessment of mid-Western Nepal.",
+      "title": "KLL's first project",
+      "category": "Disaster Management & Resilient Communities",
+      "day": 5,
+      "year": 2014,
+      "month": 1,
+      "id": "4"
+    },
+    "5": {
+      "longitude": 85.2,
+      "latitude": 27.3,
+      "images": [],
+      "web_link": null,
+      "description": "In the changed political context, KLL ventures out to explore how ICTs may help in injecting transparency, accountability and citizen engagement in municipal affairs. It leads to the development of our experimental MODEL4G platform. This platform was developed in association with the office of Hon. Member of Parliament Gagan Thapa's office, Ward 7 of Kathmandu Metropolitan City and Young Innovations Pvt. Ltd.",
+      "title": "Meanwhile Nepal gets its first democratically elected government in more than a decade",
+      "category": "Open Local Governance & Active Citizenship",
+      "day": 7,
+      "year": 2015,
+      "month": 1,
+      "id": "5"
+    },
+    "6": {
+      "longitude": null,
+      "latitude": null,
+      "images": [],
+      "web_link": null,
+      "description": "After losing its building and operating from available vacant spaces for two months, KLL finally finds its new home.",
+      "title": "KLL gets a roof over its head",
+      "category": "Misc",
+      "day": 6,
+      "year": 2015,
+      "month": 6,
+      "id": "6"
+    },
+    "7": {
+      "longitude": null,
+      "latitude": null,
+      "images": [],
+      "web_link": "https://np.okfn.org/2017/03/13/open-access-and-open-data-gaining-momentum-in-nepal/",
+      "description": "KLL continues to spread Open Data Day beyond Kathmandu. This time it organizes the event with Paschimanchal Campus in Pokhara city in order to instigate local interests and stakeholders into open mapping.",
+      "title": "Taking Open Data Day beyond the confines of the capital",
+      "category": "Civic Education and Awareness",
+      "day": 5,
+      "year": 2016,
+      "month": 3,
+      "id": "7"
+    }
+  },
+  "success": 1
+}
